@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Souvik Ray
+# 🤝 Hi, I'm Souvik Ray
 
 💻 **Frontend Web Developer**  
 I design and build modern, responsive, and user-friendly web interfaces using clean and efficient code.
@@ -35,20 +35,4 @@ I design and build modern, responsive, and user-friendly web interfaces using cl
 
 ## 🤝 Connect With Me  
 <p align="left">
-  <a href="https://github.com/SouvikRay" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/souvik-ray" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:roysouvikpaikpara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/souvik-ray" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20Connect-228B22?style=for-the-badge&logo=Handshake&logoColor=white" alt="Handshake" />
-  </a>
-</p>
-
----
-
-⭐ *"Code. Create. Collaborate."*
+  <a href="https://github.com/SouvikRay"
