@@ -35,7 +35,7 @@ I design and build modern, responsive, and user-friendly web interfaces using cl
 
 ## 🤝 Connect With Me  
 <p align="left">
-  <a href="https://github.com/SouvikRay" target="_blank">
+  <a href="https://github.com/iamsouvikray" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:roysouvikpaikpara@gmail.com">
