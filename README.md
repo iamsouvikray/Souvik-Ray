@@ -44,6 +44,9 @@ I design and build modern, responsive, and user-friendly web interfaces using cl
   <a href="mailto:roysouvikpaikpara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://www.linkedin.com/in/souvik-ray" target="_blank">
+    <img src="https://img.shields.io/badge/Let's%20Connect-228B22?style=for-the-badge&logo=Handshake&logoColor=white" alt="Handshake" />
+  </a>
 </p>
 
 ---
